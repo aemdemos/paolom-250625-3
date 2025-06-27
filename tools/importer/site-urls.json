@@ -1,0 +1,638 @@
+{
+  "originUrl": "https://frame.io",
+  "lastCrawled": "https://frame.io/",
+  "urls": [
+    {
+      "url": "https://frame.io/",
+      "source": "SITEMAPS",
+      "targetPath": "/",
+      "id": "4997f9784d793fb99e9e47dc4626f5403b7fad98"
+    },
+    {
+      "url": "https://frame.io/c2c/certified",
+      "source": "SITEMAPS",
+      "targetPath": "/c2c/certified",
+      "id": "5bc7caea9dd374701d6cc3fc3c342e7d9086e208"
+    },
+    {
+      "url": "https://frame.io/c2c/red",
+      "source": "SITEMAPS",
+      "targetPath": "/c2c/red",
+      "id": "2c561408ef6667df29f02394f1a0188d5ac85c95"
+    },
+    {
+      "url": "https://frame.io/capture-review-deliver",
+      "source": "SITEMAPS",
+      "targetPath": "/capture-review-deliver",
+      "id": "51139d72c3eafe25a5b9c098291e5cabb6e27abf"
+    },
+    {
+      "url": "https://frame.io/capture-to-campaign",
+      "source": "SITEMAPS",
+      "targetPath": "/capture-to-campaign",
+      "id": "17569a57a7a02a3b2a411b7bb5f83988833de353"
+    },
+    {
+      "url": "https://frame.io/case-studies/devotion",
+      "source": "SITEMAPS",
+      "targetPath": "/case-studies/devotion",
+      "id": "2cc9630e6210be35ddf7f0dd0db0b94165c18591"
+    },
+    {
+      "url": "https://frame.io/case-studies/elastique-bmw",
+      "source": "SITEMAPS",
+      "targetPath": "/case-studies/elastique-bmw",
+      "id": "b74574da6cf75024b934720ace3e4aea17c65431"
+    },
+    {
+      "url": "https://frame.io/case-studies/ford",
+      "source": "SITEMAPS",
+      "targetPath": "/case-studies/ford",
+      "id": "ef112e8f9c6c7ae989d9d1be262de2e9ec882617"
+    },
+    {
+      "url": "https://frame.io/case-studies/la-rams",
+      "source": "SITEMAPS",
+      "targetPath": "/case-studies/la-rams",
+      "id": "0e613845127249811093c67b123dfd29833ef20a"
+    },
+    {
+      "url": "https://frame.io/case-studies/lp/vmware",
+      "source": "SITEMAPS",
+      "targetPath": "/case-studies/lp/vmware",
+      "id": "d78b2c175bbc286173fb6be0c282a9fbabafd949"
+    },
+    {
+      "url": "https://frame.io/case-studies/malka",
+      "source": "SITEMAPS",
+      "targetPath": "/case-studies/malka",
+      "id": "2489d6d90cdee247a2b464ea5c17e69d9dbf4a24"
+    },
+    {
+      "url": "https://frame.io/case-studies/north-face",
+      "source": "SITEMAPS",
+      "targetPath": "/case-studies/north-face",
+      "id": "2c6dcbec0116853aefb71d0eced133674a25c676"
+    },
+    {
+      "url": "https://frame.io/case-studies/princess-cruises",
+      "source": "SITEMAPS",
+      "targetPath": "/case-studies/princess-cruises",
+      "id": "7ee67f28d9da4fe13633858276c098cda1ba604e"
+    },
+    {
+      "url": "https://frame.io/case-studies/sandwich",
+      "source": "SITEMAPS",
+      "targetPath": "/case-studies/sandwich",
+      "id": "4ff7cc214b1559c22c480f0abb47c02c67d9b1c7"
+    },
+    {
+      "url": "https://frame.io/case-studies/sky-sports",
+      "source": "SITEMAPS",
+      "targetPath": "/case-studies/sky-sports",
+      "id": "8ba9ebaedae75c1211dea8baa405437d48167406"
+    },
+    {
+      "url": "https://frame.io/case-studies/stamp",
+      "source": "SITEMAPS",
+      "targetPath": "/case-studies/stamp",
+      "id": "d4e7b0d70dd3bd688154be02071bb072f91f45ba"
+    },
+    {
+      "url": "https://frame.io/case-studies/sundance-film-festival",
+      "source": "SITEMAPS",
+      "targetPath": "/case-studies/sundance-film-festival",
+      "id": "b0a32347d4ba4cbf412b5cc3eab0c000363bd8c8"
+    },
+    {
+      "url": "https://frame.io/case-studies/the-green-knight",
+      "source": "SITEMAPS",
+      "targetPath": "/case-studies/the-green-knight",
+      "id": "bb097d9200e1fdaf2fd518f724bcffdaa127c638"
+    },
+    {
+      "url": "https://frame.io/case-studies/vice-speaker-session",
+      "source": "SITEMAPS",
+      "targetPath": "/case-studies/vice-speaker-session",
+      "id": "4c128c1965fb0499fb5449d0745c0c0422f17745"
+    },
+    {
+      "url": "https://frame.io/case-studies/vmware",
+      "source": "SITEMAPS",
+      "targetPath": "/case-studies/vmware",
+      "id": "427ae16c654bd4ffc1b6d105b737d7086abf22f0"
+    },
+    {
+      "url": "https://frame.io/case-studies/vspeed",
+      "source": "SITEMAPS",
+      "targetPath": "/case-studies/vspeed",
+      "id": "43c7b7987e4ee40444bade1fc9eb745b556b730c"
+    },
+    {
+      "url": "https://frame.io/case-studies/xfinity",
+      "source": "SITEMAPS",
+      "targetPath": "/case-studies/xfinity",
+      "id": "fff6d43dad4291119950f3c8d1a72ae991914fb2"
+    },
+    {
+      "url": "https://frame.io/case-studies/yeti",
+      "source": "SITEMAPS",
+      "targetPath": "/case-studies/yeti",
+      "id": "a8f7b802184a853a4f542d0a7a0e6c8f03b37258"
+    },
+    {
+      "url": "https://frame.io/centralized-platform",
+      "source": "SITEMAPS",
+      "targetPath": "/centralized-platform",
+      "id": "53698344b9746cb9280c11b9163f03e36a559061"
+    },
+    {
+      "url": "https://frame.io/contact",
+      "source": "SITEMAPS",
+      "targetPath": "/contact",
+      "id": "65773716909c46a0a64ed2b41dad7eb77683422d"
+    },
+    {
+      "url": "https://frame.io/contact/form",
+      "source": "SITEMAPS",
+      "targetPath": "/contact/form",
+      "id": "5b029b2c148584c2e1bed036cbcfbaf11ff50d6c"
+    },
+    {
+      "url": "https://frame.io/content-supply-chain",
+      "source": "SITEMAPS",
+      "targetPath": "/content-supply-chain",
+      "id": "dad837e72153e3044f828e9c55c7d2d08e1f9c28"
+    },
+    {
+      "url": "https://frame.io/creative-cloud",
+      "source": "SITEMAPS",
+      "targetPath": "/creative-cloud",
+      "id": "704adfe02a2a719d337c098381a0e91bfc977494"
+    },
+    {
+      "url": "https://frame.io/customers",
+      "source": "SITEMAPS",
+      "targetPath": "/customers",
+      "id": "639d2b8be35ddb2be3c2d207d59ee6173452c40b"
+    },
+    {
+      "url": "https://frame.io/enterprise",
+      "source": "SITEMAPS",
+      "targetPath": "/enterprise",
+      "id": "424c512d2c0e3304b7c0a06865644717bd102d62"
+    },
+    {
+      "url": "https://frame.io/enterprise/agencies",
+      "source": "SITEMAPS",
+      "targetPath": "/enterprise/agencies",
+      "id": "bcbf780b07eefabcd1833c47dc6448e4d247b5f6"
+    },
+    {
+      "url": "https://frame.io/enterprise/brands",
+      "source": "SITEMAPS",
+      "targetPath": "/enterprise/brands",
+      "id": "654503ec4330701b9e0b6504fbdca55493c0030e"
+    },
+    {
+      "url": "https://frame.io/enterprise/campaign-workflows",
+      "source": "SITEMAPS",
+      "targetPath": "/enterprise/campaign-workflows",
+      "id": "3448324352bc0ba7e335a253f15a52cfecd0b17d"
+    },
+    {
+      "url": "https://frame.io/enterprise/media-and-entertainment",
+      "source": "SITEMAPS",
+      "targetPath": "/enterprise/media-and-entertainment",
+      "id": "d2d0e48b4f90e7596912c6b6445ddd896ba9bc88"
+    },
+    {
+      "url": "https://frame.io/enterprise/photo-workflows",
+      "source": "SITEMAPS",
+      "targetPath": "/enterprise/photo-workflows",
+      "id": "792fa51d507410eaf381aa2b53d668886c8aa000"
+    },
+    {
+      "url": "https://frame.io/enterprise/video-workflows",
+      "source": "SITEMAPS",
+      "targetPath": "/enterprise/video-workflows",
+      "id": "383498c627d7094ab494f4df7ff4e0c6a53d4984"
+    },
+    {
+      "url": "https://frame.io/features/c2c",
+      "source": "SITEMAPS",
+      "targetPath": "/features/c2c",
+      "id": "f3b76b70fc4c40e7f86983b24d87fa464e9b0360"
+    },
+    {
+      "url": "https://frame.io/features/file-management",
+      "source": "SITEMAPS",
+      "targetPath": "/features/file-management",
+      "id": "c9a60a718fc95778c911c85ff1ef4ed2776f069c"
+    },
+    {
+      "url": "https://frame.io/features/ios-ipad",
+      "source": "SITEMAPS",
+      "targetPath": "/features/ios-ipad",
+      "id": "cece4fe75ebf3f20d6aea583921a4e0e6daf04f4"
+    },
+    {
+      "url": "https://frame.io/features/present",
+      "source": "SITEMAPS",
+      "targetPath": "/features/present",
+      "id": "a2b6551a51d710a89d776a889a956230bf841881"
+    },
+    {
+      "url": "https://frame.io/features/review-and-approval",
+      "source": "SITEMAPS",
+      "targetPath": "/features/review-and-approval",
+      "id": "6ea8bb9d005e48be1e0a9e43bc63a28238318e36"
+    },
+    {
+      "url": "https://frame.io/features/workflow-management",
+      "source": "SITEMAPS",
+      "targetPath": "/features/workflow-management",
+      "id": "faf547143dc703a15aa0cf24d8dd43c81e13e3e6"
+    },
+    {
+      "url": "https://frame.io/integrations",
+      "source": "SITEMAPS",
+      "targetPath": "/integrations",
+      "id": "062462c1599af6ba3053c9035b45def4fae778fa"
+    },
+    {
+      "url": "https://frame.io/integrations/avid-media-composer",
+      "source": "SITEMAPS",
+      "targetPath": "/integrations/avid-media-composer",
+      "id": "c2c80ddc4fce534b8039f577634f454629e0ef55"
+    },
+    {
+      "url": "https://frame.io/integrations/creative-cloud",
+      "source": "SITEMAPS",
+      "targetPath": "/integrations/creative-cloud",
+      "id": "50492994dc597206c4ab3b9462bcd13aca1088ef"
+    },
+    {
+      "url": "https://frame.io/integrations/davinci-resolve",
+      "source": "SITEMAPS",
+      "targetPath": "/integrations/davinci-resolve",
+      "id": "68112a72660f6c62127b4caeddf6f47f4aec5691"
+    },
+    {
+      "url": "https://frame.io/integrations/final-cut-pro",
+      "source": "SITEMAPS",
+      "targetPath": "/integrations/final-cut-pro",
+      "id": "2fc156c8f72af6601174eb2d6df526b5b5c91d85"
+    },
+    {
+      "url": "https://frame.io/live",
+      "source": "SITEMAPS",
+      "targetPath": "/live",
+      "id": "03c86921b5e88cadb41ff0d5532c8926bef59cc1"
+    },
+    {
+      "url": "https://frame.io/live/beyond-the-ordinary-with-red-bull-media-house",
+      "source": "SITEMAPS",
+      "targetPath": "/live/beyond-the-ordinary-with-red-bull-media-house",
+      "id": "88315998983263f4f8d33e1fa18fc714c877265a"
+    },
+    {
+      "url": "https://frame.io/live/creator-series-Carolina-rizzotto-Nov-12",
+      "source": "SITEMAPS",
+      "targetPath": "/live/creator-series-carolina-rizzotto-nov-12",
+      "id": "f712e202f3db4900a3c6cac1116000a6bfc30444"
+    },
+    {
+      "url": "https://frame.io/live/fast-track-to-frameio-success",
+      "source": "SITEMAPS",
+      "targetPath": "/live/fast-track-to-frameio-success",
+      "id": "bd7a27c164ceec3a6abc0cb4ba465b967c5a430f"
+    },
+    {
+      "url": "https://frame.io/live/fast-track-to-frameio-success-August-21st",
+      "source": "SITEMAPS",
+      "targetPath": "/live/fast-track-to-frameio-success-august-21st",
+      "id": "47ccd4b99bf267cdac2bf50212b7a081c3b97631"
+    },
+    {
+      "url": "https://frame.io/live/fast-track-to-frameio-success-August-7th",
+      "source": "SITEMAPS",
+      "targetPath": "/live/fast-track-to-frameio-success-august-7th",
+      "id": "7688d9094c74842474bd1a950b587ae12ca17a80"
+    },
+    {
+      "url": "https://frame.io/live/fast-track-to-frameio-success-july-10",
+      "source": "SITEMAPS",
+      "targetPath": "/live/fast-track-to-frameio-success-july-10",
+      "id": "57daf91dbe986a62e5f052e3fbdee938a39ab964"
+    },
+    {
+      "url": "https://frame.io/live/fast-track-to-frameio-success-july-24",
+      "source": "SITEMAPS",
+      "targetPath": "/live/fast-track-to-frameio-success-july-24",
+      "id": "b9b1938d064f5fd155b940baaf5c72d0645449ca"
+    },
+    {
+      "url": "https://frame.io/live/fast-track-to-frameio-success-Oct-16",
+      "source": "SITEMAPS",
+      "targetPath": "/live/fast-track-to-frameio-success-oct-16",
+      "id": "91460b1ca119a8bd70523620fe06d59e600f20df"
+    },
+    {
+      "url": "https://frame.io/live/fast-track-to-frameio-success-Sept-12",
+      "source": "SITEMAPS",
+      "targetPath": "/live/fast-track-to-frameio-success-sept-12",
+      "id": "891dbdee6e38c05b1a89f1e0246318a768530b34"
+    },
+    {
+      "url": "https://frame.io/live/Get-to-Know-Frame.io-Version-4-Dec-04",
+      "source": "SITEMAPS",
+      "targetPath": "/live/get-to-know-frame-io-version-4-dec-04",
+      "id": "a4ccb9d2cd78f868e1cf4d1f6bd7b7106c6ba083"
+    },
+    {
+      "url": "https://frame.io/live/Get-to-Know-Frame.io-Version-4-Dec-18",
+      "source": "SITEMAPS",
+      "targetPath": "/live/get-to-know-frame-io-version-4-dec-18",
+      "id": "11ba8c2fb3616f660fd3f0157f56142499eb6df2"
+    },
+    {
+      "url": "https://frame.io/live/Get-to-Know-Frame.io-Version-4-Feb-05",
+      "source": "SITEMAPS",
+      "targetPath": "/live/get-to-know-frame-io-version-4-feb-05",
+      "id": "b5ffa251fb98a1544bd21a41b10e96ed147cdcac"
+    },
+    {
+      "url": "https://frame.io/live/Get-to-Know-Frame.io-Version-4-Feb-12",
+      "source": "SITEMAPS",
+      "targetPath": "/live/get-to-know-frame-io-version-4-feb-12",
+      "id": "d2eac8fd77b712b8810313f1287a490907fcfc1e"
+    },
+    {
+      "url": "https://frame.io/live/Get-to-Know-Frame.io-Version-4-Feb-19",
+      "source": "SITEMAPS",
+      "targetPath": "/live/get-to-know-frame-io-version-4-feb-19",
+      "id": "9db45f7c9d6c624786f6a8b104e19c3e1359fbd0"
+    },
+    {
+      "url": "https://frame.io/live/Get-to-Know-Frame.io-Version-4-Feb-26",
+      "source": "SITEMAPS",
+      "targetPath": "/live/get-to-know-frame-io-version-4-feb-26",
+      "id": "0d2e65785ad142bcfed8f9215c5c9aebefd7e3bd"
+    },
+    {
+      "url": "https://frame.io/live/Get-to-Know-Frame.io-Version-4-Jan-22",
+      "source": "SITEMAPS",
+      "targetPath": "/live/get-to-know-frame-io-version-4-jan-22",
+      "id": "dccfa64f189f834d86e340fa0123aa66d8b30f45"
+    },
+    {
+      "url": "https://frame.io/live/Get-to-Know-Frame.io-Version-4-Jan-29",
+      "source": "SITEMAPS",
+      "targetPath": "/live/get-to-know-frame-io-version-4-jan-29",
+      "id": "fb16093beadd62fa573cb8f2e4b2e51556b0748f"
+    },
+    {
+      "url": "https://frame.io/live/Get-to-Know-Frame.io-Version-4-Jan-8",
+      "source": "SITEMAPS",
+      "targetPath": "/live/get-to-know-frame-io-version-4-jan-8",
+      "id": "5e398332297f7558bf0d6a2f4016f9fedd8db2f2"
+    },
+    {
+      "url": "https://frame.io/live/Get-to-Know-Frame.io-Version-4-Nov-06",
+      "source": "SITEMAPS",
+      "targetPath": "/live/get-to-know-frame-io-version-4-nov-06",
+      "id": "7c7a7222bc5bb8e5be7cbbb1d4330bdbe3bd92d3"
+    },
+    {
+      "url": "https://frame.io/live/Get-to-Know-Frame.io-Version-4-Nov-20",
+      "source": "SITEMAPS",
+      "targetPath": "/live/get-to-know-frame-io-version-4-nov-20",
+      "id": "77db8cc225c8bc328f2274cba8d580adbd14016b"
+    },
+    {
+      "url": "https://frame.io/live/Get-to-Know-Frame.io-Version-4-Oct-23",
+      "source": "SITEMAPS",
+      "targetPath": "/live/get-to-know-frame-io-version-4-oct-23",
+      "id": "5dae78453e41033e97164aae550fd79239f88208"
+    },
+    {
+      "url": "https://frame.io/live/get-to-know-frameio-version-4-apr-16",
+      "source": "SITEMAPS",
+      "targetPath": "/live/get-to-know-frameio-version-4-apr-16",
+      "id": "f444ba2e05d1ebd97d006c4be0f875a326b251f0"
+    },
+    {
+      "url": "https://frame.io/live/get-to-know-frameio-version-4-apr-23",
+      "source": "SITEMAPS",
+      "targetPath": "/live/get-to-know-frameio-version-4-apr-23",
+      "id": "3f6533a33f0578bf69b6095fdeede908644706e2"
+    },
+    {
+      "url": "https://frame.io/live/get-to-know-frameio-version-4-apr-30",
+      "source": "SITEMAPS",
+      "targetPath": "/live/get-to-know-frameio-version-4-apr-30",
+      "id": "10f3fa92ebc1c5774a712dfc9023fd528bd5c443"
+    },
+    {
+      "url": "https://frame.io/live/get-to-know-frameio-version-4-apr-9",
+      "source": "SITEMAPS",
+      "targetPath": "/live/get-to-know-frameio-version-4-apr-9",
+      "id": "c6785b5250caf6b8bbf8f7aac60c91fd52fc4774"
+    },
+    {
+      "url": "https://frame.io/live/get-to-know-frameio-version-4-june-11",
+      "source": "SITEMAPS",
+      "targetPath": "/live/get-to-know-frameio-version-4-june-11",
+      "id": "f26504d7a5f7f510e7810a1d92a3785e852a5ada"
+    },
+    {
+      "url": "https://frame.io/live/get-to-know-frameio-version-4-june-18",
+      "source": "SITEMAPS",
+      "targetPath": "/live/get-to-know-frameio-version-4-june-18",
+      "id": "5cbf9edb773b0620bbf5d828026d4a3c80c43a53"
+    },
+    {
+      "url": "https://frame.io/live/get-to-know-frameio-version-4-june-25",
+      "source": "SITEMAPS",
+      "targetPath": "/live/get-to-know-frameio-version-4-june-25",
+      "id": "6ccdcdcf0dfb558ead6f9682c9741a6347c4ed14"
+    },
+    {
+      "url": "https://frame.io/live/get-to-know-frameio-version-4-june-4",
+      "source": "SITEMAPS",
+      "targetPath": "/live/get-to-know-frameio-version-4-june-4",
+      "id": "23c18a726ec6b3bc32a962de9c871c8e28e23211"
+    },
+    {
+      "url": "https://frame.io/live/get-to-know-frameio-version-4-mar-19",
+      "source": "SITEMAPS",
+      "targetPath": "/live/get-to-know-frameio-version-4-mar-19",
+      "id": "48fb858ad5b6e9e31f5ad09480f7989d5743d092"
+    },
+    {
+      "url": "https://frame.io/live/get-to-know-frameio-version-4-mar-26",
+      "source": "SITEMAPS",
+      "targetPath": "/live/get-to-know-frameio-version-4-mar-26",
+      "id": "1e3d979adc482c2f77ef6f92a556d59fa1fdddda"
+    },
+    {
+      "url": "https://frame.io/live/get-to-know-frameio-version-4-mar-5",
+      "source": "SITEMAPS",
+      "targetPath": "/live/get-to-know-frameio-version-4-mar-5",
+      "id": "4b97821067a6ec93fdf7d6b2a0a80a1861f9c6bc"
+    },
+    {
+      "url": "https://frame.io/live/pepsico-how-a-big-brand-gets-big-results",
+      "source": "SITEMAPS",
+      "targetPath": "/live/pepsico-how-a-big-brand-gets-big-results",
+      "id": "72867b281d6f4437c04e7734ee815b5b5da28e28"
+    },
+    {
+      "url": "https://frame.io/live/the-ultimate-frameio-admin-guide",
+      "source": "SITEMAPS",
+      "targetPath": "/live/the-ultimate-frameio-admin-guide",
+      "id": "408236b18ce1b92c824357fc4c043c8a8eb4f913"
+    },
+    {
+      "url": "https://frame.io/live/the-ultimate-frameio-admin-guide-August-14",
+      "source": "SITEMAPS",
+      "targetPath": "/live/the-ultimate-frameio-admin-guide-august-14",
+      "id": "ec8dcff471e8bd507c3665f08ff3402fa44a3302"
+    },
+    {
+      "url": "https://frame.io/live/the-ultimate-frameio-admin-guide-July-17",
+      "source": "SITEMAPS",
+      "targetPath": "/live/the-ultimate-frameio-admin-guide-july-17",
+      "id": "a91dbe96316617bdc56e39effc85dccce936b4c5"
+    },
+    {
+      "url": "https://frame.io/live/the-ultimate-frameio-admin-guide-July-30",
+      "source": "SITEMAPS",
+      "targetPath": "/live/the-ultimate-frameio-admin-guide-july-30",
+      "id": "cf9a653c2cbbec2025b53c877f5edc6c41436e9e"
+    },
+    {
+      "url": "https://frame.io/live/the-ultimate-frameio-admin-guide-October-09",
+      "source": "SITEMAPS",
+      "targetPath": "/live/the-ultimate-frameio-admin-guide-october-09",
+      "id": "e0728c54b96d9bcc6089cb2e1fe496ead74218bb"
+    },
+    {
+      "url": "https://frame.io/live/the-ultimate-frameio-admin-guide-September-18",
+      "source": "SITEMAPS",
+      "targetPath": "/live/the-ultimate-frameio-admin-guide-september-18",
+      "id": "214dd5bb4833ffb2402914463c7f3daf0bb90680"
+    },
+    {
+      "url": "https://frame.io/live/the-ultimate-frameio-admin-guide-September-4",
+      "source": "SITEMAPS",
+      "targetPath": "/live/the-ultimate-frameio-admin-guide-september-4",
+      "id": "20c5e4424d7cd14b330b7846f5c104be35bb8c09"
+    },
+    {
+      "url": "https://frame.io/live/Unlock-Faster-Workflows-with-C2C-and-Panasonic-LUMIX",
+      "source": "SITEMAPS",
+      "targetPath": "/live/unlock-faster-workflows-with-c2c-and-panasonic-lumix",
+      "id": "8b5749905b12fd6c005cfd97eb650b8bcdbe3407"
+    },
+    {
+      "url": "https://frame.io/live/Version-4-Princess-Cruises-Alaska-Pursuit-Oct-22",
+      "source": "SITEMAPS",
+      "targetPath": "/live/version-4-princess-cruises-alaska-pursuit-oct-22",
+      "id": "dd1ccbbb46d3ec243b1da0353e9bbbe0b726609b"
+    },
+    {
+      "url": "https://frame.io/lp/jan-2025-offer-annual",
+      "source": "SITEMAPS",
+      "targetPath": "/lp/jan-2025-offer-annual",
+      "id": "8c102d053b5b126a2a742ae17eeeccbd5fc76fa3"
+    },
+    {
+      "url": "https://frame.io/lp/signup",
+      "source": "SITEMAPS",
+      "targetPath": "/lp/signup",
+      "id": "1d6f7caba652c1f6bde79c95dd28a0e7b63e5cdc"
+    },
+    {
+      "url": "https://frame.io/lp/victorbustos/exclusive-offer",
+      "source": "SITEMAPS",
+      "targetPath": "/lp/victorbustos/exclusive-offer",
+      "id": "f3a87cd8520ce247bdb281b88621da6baa3fa0f6"
+    },
+    {
+      "url": "https://frame.io/lp/what-is-frame-io-creative",
+      "source": "SITEMAPS",
+      "targetPath": "/lp/what-is-frame-io-creative",
+      "id": "7185e1432959909163c5f0fc4d9f7a17757ff235"
+    },
+    {
+      "url": "https://frame.io/photo-cloud-workflow",
+      "source": "SITEMAPS",
+      "targetPath": "/photo-cloud-workflow",
+      "id": "3f4178398a34d7bd775638f1be670854559b3755"
+    },
+    {
+      "url": "https://frame.io/pricing",
+      "source": "SITEMAPS",
+      "targetPath": "/pricing",
+      "id": "9fad659f050ece1b38f0229a3db7cbe23f5b12c0"
+    },
+    {
+      "url": "https://frame.io/privacy",
+      "source": "SITEMAPS",
+      "targetPath": "/privacy",
+      "id": "1cc3a69a43f4db62dff1ef7c615469a51b0d4d92"
+    },
+    {
+      "url": "https://frame.io/resources",
+      "source": "SITEMAPS",
+      "targetPath": "/resources",
+      "id": "998044ea5bb56fd38034fd0d2a46459da1172e6d"
+    },
+    {
+      "url": "https://frame.io/security",
+      "source": "SITEMAPS",
+      "targetPath": "/security",
+      "id": "41b27aabcf4cdf0f8cfd5cdc6ed8908664026d25"
+    },
+    {
+      "url": "https://frame.io/stamp-enterprise",
+      "source": "SITEMAPS",
+      "targetPath": "/stamp-enterprise",
+      "id": "fbcf5b490fea76bfb1406a5c9b0b1bc61d064343"
+    },
+    {
+      "url": "https://frame.io/transfer",
+      "source": "SITEMAPS",
+      "targetPath": "/transfer",
+      "id": "4d42431aaecdadddd57486ae9c3f2295b1790dfc"
+    },
+    {
+      "url": "https://frame.io/v4-keynote",
+      "source": "SITEMAPS",
+      "targetPath": "/v4-keynote",
+      "id": "f8986b27f52878800f70fb50cb8aadca9f5dec14"
+    },
+    {
+      "url": "https://frame.io/whats-new",
+      "source": "SITEMAPS",
+      "targetPath": "/whats-new",
+      "id": "0dda2a8d543c80a496bfd5ca75a03a5f45dd44ea"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": []
+}
