@@ -231,12 +231,6 @@
       "id": "c9a60a718fc95778c911c85ff1ef4ed2776f069c"
     },
     {
-      "url": "https://frame.io/features/ios-ipad",
-      "source": "SITEMAPS",
-      "targetPath": "/features/ios-ipad",
-      "id": "cece4fe75ebf3f20d6aea583921a4e0e6daf04f4"
-    },
-    {
       "url": "https://frame.io/features/present",
       "source": "SITEMAPS",
       "targetPath": "/features/present",
